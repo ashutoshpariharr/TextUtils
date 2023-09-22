@@ -1,0 +1,11 @@
+body{
+    color: rgb(246, 239, 239);
+    background-color: rgb(32, 41, 53);
+}
+#myBox{
+    background-color: gray;
+    color: white;
+}
+span{
+    color:#0de5fd;
+  }
